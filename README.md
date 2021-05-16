@@ -4,7 +4,7 @@ TASK-2 : Prediction using Unsupervised ML From the given ‘Iris’ dataset, pre
 Steps-
 
 1. Import the required libraries
-2.. Loading the iris dataset
+2. Loading the iris dataset
 3. Printing shape, head and tail of data
 4. Checking for null values
 5. Data Visualization
